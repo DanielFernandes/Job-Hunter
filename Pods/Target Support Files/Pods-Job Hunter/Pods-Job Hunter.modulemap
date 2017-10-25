@@ -1,0 +1,6 @@
+framework module Pods_Job_Hunter {
+  umbrella header "Pods-Job Hunter-umbrella.h"
+
+  export *
+  module * { export * }
+}
